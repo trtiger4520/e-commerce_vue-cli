@@ -1,6 +1,6 @@
-# vuewebpack
+# Vue電商網站實作
 
-> vue.js project in udemy class
+> 目前進度：後台產品管理與優惠卷管理完成
 
 ## Build Setup
 
