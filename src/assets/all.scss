@@ -1,0 +1,19 @@
+@import "./fonts";
+@import "~bootstrap/scss/_functions";
+@import "./variables";
+@import "~bootstrap/scss/bootstrap";
+@import '~bootstrap-vue/src/index.scss';
+
+@import "./page/variables";
+@import "./page/mixins";
+@import "./page/global";
+@import "./page/utilities";
+@import "./page/navbar";
+@import "./page/cards";
+@import "./page/login";
+@import "./page/footer";
+
+.adv-larg {
+  font-family: $font-advertising;
+  font-size: 70px;
+}
